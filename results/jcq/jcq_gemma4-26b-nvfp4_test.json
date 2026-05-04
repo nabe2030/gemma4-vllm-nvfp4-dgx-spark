@@ -1,0 +1,65 @@
+{
+  "model": "gemma4-26b-nvfp4",
+  "total": 5,
+  "correct": 5,
+  "accuracy": 100.0,
+  "avg_latency": 0.371,
+  "avg_tok_s": 0,
+  "results": [
+    {
+      "q_id": 8939,
+      "question": "電子機器で使用される最も主要な電子回路基板の事をなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "",
+      "latency": 1.498,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8940,
+      "question": "田んぼが広がる風景を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "",
+      "latency": 0.09,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8941,
+      "question": "しゃがんだりする様を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "",
+      "latency": 0.09,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8942,
+      "question": "水を出すときに捻るものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "",
+      "latency": 0.087,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8943,
+      "question": "音楽にあわせて踊る場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "",
+      "latency": 0.088,
+      "tok_s": 0
+    }
+  ]
+}

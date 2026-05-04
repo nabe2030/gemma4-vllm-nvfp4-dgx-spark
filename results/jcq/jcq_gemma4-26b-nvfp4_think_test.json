@@ -1,0 +1,67 @@
+{
+  "model": "gemma4-26b-nvfp4",
+  "thinking": true,
+  "max_tokens": 2048,
+  "total": 5,
+  "correct": 5,
+  "accuracy": 100.0,
+  "avg_latency": 11.507,
+  "avg_tok_s": 0,
+  "results": [
+    {
+      "q_id": 8939,
+      "question": "電子機器で使用される最も主要な電子回路基板の事をなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"電子機器で使用される最も主要な電子回路基板の事をなんと言う？\" (What is the most major electronic circuit board used in electronic devices called?)\n    *   Options:\n        0: 掲示板 (Bulletin board)\n        1: パソコン (Pe",
+      "latency": 4.762,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8940,
+      "question": "田んぼが広がる風景を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"田んぼが広がる風景を何という？\" (What do you call a landscape where rice paddies spread?)\n    *   Options:\n        0: 畑 (Field/Farm - usually for vegetables/crops other than rice)\n        1: 海 (Sea/Oc",
+      "latency": 5.5,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8941,
+      "question": "しゃがんだりする様を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: \"しゃがんだりする様を何という？\" (What is the term for the act of squatting/crouching?)\n    *   Options:\n        0: 腰を下す (To settle down / to sit down)\n        1: 座る (To sit)\n        2: 仮眠を取る (To take ",
+      "latency": 37.33,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8942,
+      "question": "水を出すときに捻るものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: \"水を出すときに捻るものは？\" (What do you twist to let water out?)\n    *   Options:\n        0: 蛇口 (Faucet/Tap)\n        1: ハンドル (Handle/Steering wheel/Lever)\n        2: 流し (Sink)\n        3: 釘 (Nail)\n ",
+      "latency": 5.775,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8943,
+      "question": "音楽にあわせて踊る場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: 音楽にあわせて踊る場所は？ (Where is a place to dance to music?)\n    *   Options:\n        0: ディスコ (Disco)\n        1: 市長 (Mayor)\n        2: イチゴ (Strawberry)\n        3: ショッピングセンター (Shopping center)\n   ",
+      "latency": 4.166,
+      "tok_s": 0
+    }
+  ]
+}

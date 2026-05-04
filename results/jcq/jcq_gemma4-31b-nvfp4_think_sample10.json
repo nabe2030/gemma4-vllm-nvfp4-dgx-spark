@@ -1,0 +1,122 @@
+{
+  "model": "gemma4-31b-nvfp4",
+  "thinking": true,
+  "max_tokens": 2048,
+  "total": 10,
+  "correct": 10,
+  "accuracy": 100.0,
+  "avg_latency": 37.291,
+  "avg_tok_s": 0,
+  "results": [
+    {
+      "q_id": 8939,
+      "question": "電子機器で使用される最も主要な電子回路基板の事をなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"What is the most primary electronic circuit board used in electronic devices called?\" (電子機器で使用される最も主要な電子回路基板の事をなんと言う？)\n    *   Options:\n        0: 掲示板 (Bulletin board)\n        1: パソコン (",
+      "latency": 32.218,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8940,
+      "question": "田んぼが広がる風景を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"田んぼが広がる風景を何という？\" (What do you call a landscape where rice fields spread out?)\n    *   Options:\n        0: 畑 (Hatake - field/vegetable garden)\n        1: 海 (Umi - sea)\n        2: 田園 (Den",
+      "latency": 23.59,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8941,
+      "question": "しゃがんだりする様を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: \"しゃがんだりする様を何という？\" (What do you call the act of squatting or similar?)\n    *   Options:\n        0: 腰を下す (Koshi o kudasu - to sit down/settle down)\n        1: 座る (Suwaru - to sit)\n        ",
+      "latency": 122.11,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8942,
+      "question": "水を出すときに捻るものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: \"水を出すときに捻るものは？\" (What do you turn to let water out?)\n    *   Options:\n        0: 蛇口 (Faucet/Tap)\n        1: ハンドル (Handle)\n        2: 流し (Sink)\n        3: 釘 (Nail)\n        4: 食器棚 (Cupboar",
+      "latency": 32.6,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8943,
+      "question": "音楽にあわせて踊る場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0",
+      "reasoning": "*   Question: \"音楽にあわせて踊る場所は？\" (Where is a place to dance to music?)\n    *   Options:\n        0: ディスコ (Disco)\n        1: 市長 (Mayor)\n        2: イチゴ (Strawberry)\n        3: ショッピングセンター (Shopping center)\n ",
+      "latency": 25.377,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8944,
+      "question": "地中にある一定の大きさの空間のこと？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4",
+      "reasoning": "*   Question: \"地中にある一定の大きさの空間のこと？\" (What is a space of a certain size located underground?)\n    *   Options:\n        0: 麓 (Foot of a mountain)\n        1: 山頂 (Mountain peak)\n        2: 中腹 (Mid-slope of",
+      "latency": 33.174,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8945,
+      "question": "乗り物が関係する言葉はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4",
+      "reasoning": "*   Question: \"乗り物が関係する言葉はどれ？\" (Which phrase relates to a vehicle?)\n    *   Options:\n        0: 外に出る (Go outside)\n        1: 歩く (Walk)\n        2: 靴を脱ぐ (Take off shoes)\n        3: 靴を履く (Put on shoes)\n ",
+      "latency": 25.819,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8946,
+      "question": "持ち運び、使いまわりの良さに富んだパソコンをなんという？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"What do you call a computer that is easy to carry and reuse/use flexibly?\" (持ち運び、使いまわりの良さに富んだパソコンをなんという？)\n    *   Options:\n        0: Computer (コンピュータ) - Too general.\n        1: Rope (ロ",
+      "latency": 24.948,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8947,
+      "question": "タバコを吸う事を何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2",
+      "reasoning": "*   Question: \"タバコを吸う事を何と言う？\" (What is smoking cigarettes called?)\n    *   Options:\n        0: 電話 (Telephone/Calling)\n        1: 食事 (Meal/Eating)\n        2: 喫煙 (Smoking)\n        3: 仏 (Buddha)\n        ",
+      "latency": 19.029,
+      "tok_s": 0
+    },
+    {
+      "q_id": 8948,
+      "question": "スピードを超過して警察に捕まることといえば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4",
+      "reasoning": "*   Question: \"スピードを超過して警察に捕まることといえば？\" (What do you call it when you are caught by the police for speeding?)\n    *   Options:\n        0: 妨害運転 (Obstructive driving/Road rage)\n        1: 悲しい (Sad)\n     ",
+      "latency": 34.046,
+      "tok_s": 0
+    }
+  ]
+}
